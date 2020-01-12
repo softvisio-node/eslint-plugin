@@ -1,0 +1,39 @@
+{
+    "author": "zdm <zdm@softvisio.net>",
+    "bugs": {
+        "email": "zdm@softvisio.net",
+        "url": "https://bitbucket.org/softvisio/softvisio-eslint-plugin/issues"
+    },
+    "description": "Softisio ESLint Config",
+    "devDependencies": {
+        "babel-eslint": ">=10.0.3",
+        "eslint": ">=6.8.0",
+        "eslint-plugin-babel": ">=5.3.0",
+        "eslint-plugin-vue": ">=6.1.2"
+    },
+    "homepage": "https://bitbucket.org/softvisio/softvisio-eslint-plugin",
+    "keywords": [
+        "softvisio",
+        "eslint",
+        "eslintplugin"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "@softvisio/eslint-plugin",
+    "peerDependencies": {
+        "babel-eslint": ">=10.0.3",
+        "eslint": ">=6.8.0",
+        "eslint-plugin-babel": ">=5.3.0",
+        "eslint-plugin-vue": ">=6.1.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/softvisio/softvisio-eslint-plugin.git"
+    },
+    "scripts": {
+        "lint": "eslint --fix --ext=.js,.vue *.js",
+        "publish": "yarn lint && yarn npm publish"
+    },
+    "type": "commonjs",
+    "version": "0.1.0"
+}
