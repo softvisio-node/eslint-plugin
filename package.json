@@ -18,7 +18,7 @@
         "eslintplugin"
     ],
     "license": "ISC",
-    "main": "index.js",
+    "main": "lib/index.js",
     "name": "@softvisio/eslint-plugin",
     "peerDependencies": {
         "babel-eslint": ">=10.0.3",
