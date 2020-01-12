@@ -19,5 +19,5 @@ Use the following ```.eslintrc.yaml```:
 root: true
 
 extends:
-	- 'plugin:softvisio/recommended'
+	- 'plugin:@softvisio/recommended'
 ```
