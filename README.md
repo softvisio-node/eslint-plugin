@@ -2,12 +2,12 @@
 
 ## YARN v2
 ```
-yarn add @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+yarn add @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue json5
 ```
 
 ## GLOBAL INSTALL
 ```
-npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue json5
 ```
 
 # USE
