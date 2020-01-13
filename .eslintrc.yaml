@@ -2,4 +2,4 @@
 root: true
 
 extends:
-    - './index.js'
+    - 'plugin:@softvisio/recommended'
