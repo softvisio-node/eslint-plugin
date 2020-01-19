@@ -1,14 +1,11 @@
 # common
 data/
 wiki/
-
-# node
-src/
-.eslintrc.yaml
-babel.config.js
 TODO.txt
 
+# node
+.eslintrc.yaml
+
 # yarn
-# https://github.com/yarnpkg/berry/issues/454#issuecomment-530312089
 .yarn/
 .pnp.*
