@@ -2,7 +2,7 @@
 
 ## YARN v2
 ```
-yarn add @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+yarn add --dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
 ```
 
 ## GLOBAL INSTALL
