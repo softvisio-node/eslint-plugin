@@ -5,9 +5,14 @@
 yarn add --dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
 ```
 
-## GLOBAL INSTALL
+## NPM GLOBAL INSTALL
 ```
 npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+```
+
+## NPM ADD
+```
+npm i --save-dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
 ```
 
 # USE
