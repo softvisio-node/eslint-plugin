@@ -34,9 +34,8 @@
         "url": "https://bitbucket.org/softvisio/softvisio-eslint-plugin.git"
     },
     "scripts": {
-        "lint": "eslint --fix --ext=.js,.vue lib",
-        "publish": "yarn npm publish"
+        "lint": "eslint --fix --ext=.js,.vue lib"
     },
     "type": "commonjs",
-    "version": "0.10.0"
+    "version": "0.11.0"
 }
