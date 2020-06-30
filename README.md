@@ -7,7 +7,7 @@ npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint
 
 ## NPM ADD
 ```
-npm i --save-dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+npm i @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue --save-dev
 ```
 
 # USE
