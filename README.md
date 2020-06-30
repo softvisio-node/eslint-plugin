@@ -1,10 +1,5 @@
 # INSTALL
 
-## YARN v2
-```
-yarn add --dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
-```
-
 ## NPM GLOBAL INSTALL
 ```
 npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
