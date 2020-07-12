@@ -1,5 +1,7 @@
 # INSTALL
 
+You don't need to install and use this package directly, use `@softvisio/cli`.
+
 ## NPM GLOBAL INSTALL
 
 ```
@@ -9,7 +11,7 @@ npm i -g @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint
 ## NPM ADD
 
 ```
-npm i @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue --save-dev
+npm add --save-dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
 ```
 
 # USE
@@ -17,7 +19,6 @@ npm i @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-pl
 Use the following `.eslintrc.yaml`:
 
 ```
----
 root: true
 
 extends:
