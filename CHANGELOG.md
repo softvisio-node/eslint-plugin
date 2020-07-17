@@ -1,3 +1,7 @@
+## 0.15.3 (2020-07-17)
+
+-   lint patterns updated
+
 ## 0.15.2 (2020-07-12)
 
 -   changelog format updated
