@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/eslint-plugin",
-    "version": "0.15.3",
+    "version": "0.15.4",
     "description": "Softisio ESLint Plugin",
     "keywords": [
         "softvisio",

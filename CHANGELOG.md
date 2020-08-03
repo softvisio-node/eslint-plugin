@@ -1,3 +1,7 @@
+## 0.15.4 (2020-08-03)
+
+-   shrinkwrap added
+
 ## 0.15.3 (2020-07-17)
 
 -   lint patterns updated
