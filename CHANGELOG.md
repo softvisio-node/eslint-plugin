@@ -1,3 +1,7 @@
+## 0.15.7 (2020-10-15)
+
+-   deps updated
+
 ## 0.15.6 (2020-08-07)
 
 -   .eslintrc.yaml removed
