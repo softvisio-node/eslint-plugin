@@ -1,3 +1,7 @@
+## 0.16.0 (2020-10-19)
+
+-   migrated to @babel/eslint-parser
+
 ## 0.15.7 (2020-10-15)
 
 -   deps updated
