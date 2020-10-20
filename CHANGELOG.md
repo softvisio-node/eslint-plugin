@@ -1,3 +1,7 @@
+## 0.16.1 (2020-10-20)
+
+-   reverted to babel-eslint
+
 ## 0.16.0 (2020-10-19)
 
 -   migrated to @babel/eslint-parser
