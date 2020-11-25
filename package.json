@@ -25,7 +25,8 @@
         "lint": "softvisio-cli lint"
     },
     "dependencies": {
-        "eslint-plugin-vue": ">=7.1.0"
+        "eslint-plugin-vue": ">=7.1.0",
+        "json5": ">=2.1.3"
     },
     "lint": [
         "*.*",
