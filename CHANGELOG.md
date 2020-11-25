@@ -1,3 +1,8 @@
+## 0.18.0 (2020-11-25)
+
+-   deps updated
+-   parser config removed
+
 ## 0.17.0 (2020-11-20)
 
 -   global result
