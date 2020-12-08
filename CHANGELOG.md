@@ -1,3 +1,7 @@
+## 0.19.0 (2020-12-08)
+
+-   deps updated
+
 ## 0.18.1 (2020-11-25)
 
 -   vue/html-quotes disabled
