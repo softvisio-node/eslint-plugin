@@ -1,3 +1,7 @@
+## 1.1.0 (2021-02-01)
+
+-   eslint-plugin-vue deps removed
+
 ## 1.0.2 (2021-01-31)
 
 -   package-lock disabled
