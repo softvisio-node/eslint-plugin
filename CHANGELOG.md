@@ -1,3 +1,9 @@
+## 1.1.1 (2021-05-19)
+
+### Raw commits log
+
+-   lint script removed;
+
 ## 1.1.0 (2021-02-01)
 
 -   eslint-plugin-vue deps removed
