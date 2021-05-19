@@ -21,9 +21,6 @@
     "exports": {
         ".": "./lib/index.js"
     },
-    "scripts": {
-        "lint": "softvisio-cli lint"
-    },
     "dependencies": {
         "json5": "^2.1.3"
     },
