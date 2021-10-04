@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.0 (2021-10-04)
+
+Features:
+
+-   feat: camecase rule added
+
 ### 1.1.4 (2021-06-22)
 
 Fixed:
