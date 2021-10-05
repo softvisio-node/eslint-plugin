@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.1 (2021-10-05)
+
+Fixes:
+
+-   fix: api method rule
+
 ### 1.2.0 (2021-10-04)
 
 Features:
