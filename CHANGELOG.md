@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.2 (2021-10-05)
+
+Fixes:
+
+-   fix: api method validator
+
 ### 1.2.1 (2021-10-05)
 
 Fixes:
