@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.3 (2021-10-05)
+
+Fixes:
+
+-   fix: snake_case validation
+
 ### 1.2.2 (2021-10-05)
 
 Fixes:
