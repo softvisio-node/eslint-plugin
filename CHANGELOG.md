@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.4 (2021-10-06)
+
+Fixes:
+
+-   fix: camel case list of reserver keywords updated
+
 ### 1.2.3 (2021-10-05)
 
 Fixes:
