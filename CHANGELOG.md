@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.6 (2022-01-10)
+
+Fixes:
+
+-   fix: URLSearchParams added to the exclusions
+
 ### 1.2.5 (2022-01-04)
 
 No notable changes since the previous release.
