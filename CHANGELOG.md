@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.11 (2022-07-06)
+
+Fixes:
+
+-   fix: allowed prefixes
+
 ### 1.2.10 (2022-06-13)
 
 Fixes:
