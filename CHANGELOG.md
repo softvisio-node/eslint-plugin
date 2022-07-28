@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.0 (2022-07-28)
+
+Features:
+
+-   feat: soft json attributes objects
+
 ### 1.2.12 (2022-07-07)
 
 Fixes:
