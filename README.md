@@ -5,7 +5,7 @@ You don't need to install and use this package directly, use `@softvisio/cli`.
 ## NPM GLOBAL INSTALL
 
 ```
-npm i --location=global @softvisio/eslint-plugin
+npm install --global @softvisio/eslint-plugin
 ```
 
 ## NPM ADD
