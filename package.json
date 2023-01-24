@@ -7,14 +7,14 @@
         "eslint",
         "eslintplugin"
     ],
-    "homepage": "https://github.com/softvisio/eslint-plugin",
+    "homepage": "https://github.com/softvisio-node/eslint-plugin",
     "bugs": {
-        "url": "https://github.com/softvisio/eslint-plugin/issues",
+        "url": "https://github.com/softvisio-node/eslint-plugin/issues",
         "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio/eslint-plugin.git"
+        "url": "https://github.com/softvisio-node/eslint-plugin.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
