@@ -21,6 +21,12 @@
     "exports": {
         ".": "./lib/index.js"
     },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ],
     "dependencies": {
         "json5": "^2.1.3"
     }
