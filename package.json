@@ -18,6 +18,10 @@
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#lib/*": "./lib/*.js"
+    },
     "exports": {
         ".": "./lib/index.js"
     },
