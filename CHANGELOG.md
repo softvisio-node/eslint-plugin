@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.1 (2024-08-01)
+
+Fixes:
+
+-   fix: rules
+
 ### 1.4.0 (2024-08-01)
 
 Features:
