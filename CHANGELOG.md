@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.0 (2024-08-01)
+
+Features:
+
+-   feat: eslint 9
+
 ### 1.3.9 (2024-05-29)
 
 Fixes:
