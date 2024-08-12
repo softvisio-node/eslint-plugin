@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.5.0 (2024-08-12)
+
+Features:
+
+-   feat: import-require-node-prefix rule
+
 ### 1.4.1 (2024-08-01)
 
 Fixes:
