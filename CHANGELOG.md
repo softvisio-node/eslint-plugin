@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.0 (2024-09-10)
+
+Features:
+
+-   feat: camel-case rule renamed
+
 ### 1.5.1 (2024-09-07)
 
 Fixes:
