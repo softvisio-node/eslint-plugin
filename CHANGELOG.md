@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.6.1 (2024-09-11)
+
+No notable changes since the previous release.
+
 ### 1.6.0 (2024-09-10)
 
 Features:
