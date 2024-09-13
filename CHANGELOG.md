@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.0 (2024-09-13)
+
+Features:
+
+-   feat: glob patterns .test()
+
 ### 1.6.1 (2024-09-11)
 
 No notable changes since the previous release.
