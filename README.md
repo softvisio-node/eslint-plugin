@@ -1,26 +1,17 @@
-# INSTALL
+<!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-You don't need to install and use this package directly, use `@softvisio/cli`.
+> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/eslint-plugin/](https://softvisio-node.github.io/eslint-plugin/).
 
-## NPM GLOBAL INSTALL
+# Introduction
 
-```
-npm install --global @softvisio/eslint-plugin
-```
+<!-- Tell about the project -->
 
-## NPM ADD
+## Install
 
-```
-npm add --save-dev @softvisio/eslint-plugin babel-eslint eslint eslint-plugin-babel eslint-plugin-vue
+```shell
+npm i @softvisio/eslint-plugin
 ```
 
-# USE
+## Usage
 
-Use the following `.eslintrc.yaml`:
-
-```
-root: true
-
-extends:
-  - 'plugin:@softvisio/recommended'
-```
+<!-- Tell about how to use the project, give code examples -->
