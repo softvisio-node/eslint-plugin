@@ -10,6 +10,8 @@ npm i @softvisio/eslint-plugin
 
 ## Usage
 
+`eslint.config.js`:
+
 ```javascript
 import eslintSoftvisio from "@softvisio/eslint-plugin";
 
