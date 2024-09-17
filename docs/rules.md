@@ -43,6 +43,12 @@ Restrict variables names to `camelCase`.
 
 ## @softvisio/html-quotes
 
+Properly quote HTML attributes and brings attributes values to the consistent state.
+
+If attribute value starts with `{` it tries to parse it as 'JSON' and sort properties.
+
 ```javascript
-"@softvisio/html-quotes": [ "error", options ]
+"@softvisio/html-quotes": [ "error", qoteType ]
 ```
+
+-   `qoteType` < "auto" | "single" | "double" \> Sets desired attribute quote type. "auto" - selects quote type automatically to avoid or minimize number of escaped characters. **Default:** `"auto"`.

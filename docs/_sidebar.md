@@ -1,6 +1,5 @@
 -   [Introduction](/)
-
--   [Rules](/rules.md)
+-   [Rules](rules.md)
 
 **Links**
 
