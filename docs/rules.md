@@ -45,7 +45,9 @@ Restrict variables names to `camelCase`.
 
 Properly quote HTML attributes and brings attributes values to the consistent state.
 
-If attribute value starts with `{` it tries to parse it as 'JSON' and sort properties.
+If attribute value starts with `{` it tries to parse it as 'JSON5' and sort properties. This is usefull for `ExtJS` `JSON` attributes.
+
+This rule disables `@vue/html-quotes`.
 
 ```javascript
 "@softvisio/html-quotes": [ "error", qoteType ]
