@@ -24,9 +24,3 @@ export default [
     eslintSoftvisio.configs.recommended,
 ];
 ```
-
-## Rules
-
-### @softvisio/camel-case
-
-### @softvisio/html-quotes
