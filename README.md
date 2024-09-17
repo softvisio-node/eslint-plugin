@@ -4,7 +4,7 @@
 
 # Introduction
 
-<!-- Tell about the project -->
+Custom `eslint` rules.
 
 ## Install
 
@@ -14,4 +14,19 @@ npm i @softvisio/eslint-plugin
 
 ## Usage
 
-<!-- Tell about how to use the project, give code examples -->
+```javascript
+import eslintSoftvisio from "@softvisio/eslint-plugin";
+
+export default [
+    // ...your eslint config
+
+    // @softvisio:recommended
+    eslintSoftvisio.configs.recommended,
+];
+```
+
+## Rules
+
+### @softvisio/camel-case
+
+### @softvisio/html-quotes
