@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.5 (2024-10-06)
+
+Fixes:
+
+-   fix: dependabot
+
 ### 1.7.4 (2024-10-06)
 
 No notable changes since the previous release.
