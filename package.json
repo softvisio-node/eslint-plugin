@@ -7,7 +7,7 @@
         "eslint",
         "eslintplugin"
     ],
-    "homepage": "https://github.com/softvisio-node/eslint-plugin",
+    "homepage": "https://softvisio-node.github.io/eslint-plugin/",
     "bugs": {
         "url": "https://github.com/softvisio-node/eslint-plugin/issues",
         "email": "root <root@softvisio.net>"
