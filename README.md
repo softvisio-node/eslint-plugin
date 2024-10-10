@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/eslint-plugin/](https://softvisio-node.github.io/eslint-plugin/).
+> :information_source: Please, see the full project documentation here:<br>[https://softvisio-node.github.io/eslint-plugin/](https://softvisio-node.github.io/eslint-plugin/)
 
 # Introduction
 
