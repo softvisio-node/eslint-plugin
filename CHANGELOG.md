@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.8 (2024-10-11)
+
+No notable changes since the previous release.
+
+[Compare changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.7...v1.7.8)
+
 ### 1.7.7 (2024-10-10)
 
 No notable changes since the previous release.
