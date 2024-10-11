@@ -9,7 +9,7 @@ Custom `eslint` rules.
 ## Install
 
 ```shell
-npm i @softvisio/eslint-plugin
+npm install @softvisio/eslint-plugin
 ```
 
 ## Usage
