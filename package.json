@@ -31,6 +31,9 @@
         "/resources",
         "/src"
     ],
+    "scripts": {
+        "publish": "softvisio-cli package publish"
+    },
     "dependencies": {
         "json5": "^2.1.3"
     }
