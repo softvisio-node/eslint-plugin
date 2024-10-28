@@ -26,7 +26,7 @@ Restrict variables names to `camelCase`.
         var SslCertificate;
         ```
 
-    -   `properties?` <"always" | "never"> Check object properties.
+    -   `properties?` <`"always"` | `"never"`> Check object properties.
 
     -   `allow?` {string\[]} List of allowed names.
 
@@ -53,4 +53,4 @@ This rule disables `@vue/html-quotes`.
 "@softvisio/html-quotes": [ "error", qoteType ]
 ```
 
--   `qoteType` `"auto"` | `"single"` | `"double"` Sets desired attribute quote type. "auto" selects quote type automatically to avoid or minimize number of escaped characters. **Default:** `"auto"`.
+-   `qoteType` <`"auto"` | `"single"` | `"double"`> Sets desired attribute quote type. "auto" selects quote type automatically to avoid or minimize number of escaped characters. **Default:** `"auto"`.
