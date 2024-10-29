@@ -20,6 +20,7 @@ npm install @softvisio/eslint-plugin
 import eslintSoftvisio from "@softvisio/eslint-plugin";
 
 export default [
+
     // ...your eslint config
 
     // @softvisio:recommended
