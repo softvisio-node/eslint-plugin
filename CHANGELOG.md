@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.14 (2024-11-07)
+
+Other changes:
+
+-   chore: update package metadata
+
+[Compare with the previous release: v1.7.13 ... v1.7.14](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.13...v1.7.14)
+
 ### 1.7.13 (2024-10-29)
 
 Other changes:
