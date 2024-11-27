@@ -8,15 +8,15 @@ Restrict variables names to `camelCase`.
 "@softvisio/camel-case": [ "error", options ]
 ```
 
--   `options` {Object}:
+- `options` {Object}:
 
-    -   `ignoreDestructuring?` {boolean} Ignore names in destructuring. **Default:** `false`.
+    - `ignoreDestructuring?` {boolean} Ignore names in destructuring. **Default:** `false`.
 
-    -   `ignoreImports?` {boolean} Ignore imported names. **Default:** `false`.
+    - `ignoreImports?` {boolean} Ignore imported names. **Default:** `false`.
 
-    -   `ignoreGlobals?` {boolean} Ignore global names. **Default:** `false`.
+    - `ignoreGlobals?` {boolean} Ignore global names. **Default:** `false`.
 
-    -   `allowConsecutiveCapitalLetters?` {boolean} Allow two consecutive capital letters. **Default:** `false`.
+    - `allowConsecutiveCapitalLetters?` {boolean} Allow two consecutive capital letters. **Default:** `false`.
 
         ```javascript
         // incorrect
@@ -26,11 +26,11 @@ Restrict variables names to `camelCase`.
         var SslCertificate;
         ```
 
-    -   `properties?` <`"always"`|`"never"`> Check object properties.
+    - `properties?` <`"always"`|`"never"`> Check object properties.
 
-    -   `allow?` {string\[]} List of allowed names.
+    - `allow?` {string\[]} List of allowed names.
 
-    -   `allowedPrefixes?` {string\[]} List of allowed prefixes.
+    - `allowedPrefixes?` {string\[]} List of allowed prefixes.
 
         ```javascript
         // incorrect
@@ -53,4 +53,4 @@ This rule disables `@vue/html-quotes`.
 "@softvisio/html-quotes": [ "error", qoteType ]
 ```
 
--   `qoteType` <`"auto"`|`"single"`|`"double"`> Sets desired attribute quote type. "auto" selects quote type automatically to avoid or minimize number of escaped characters. **Default:** `"auto"`.
+- `qoteType` <`"auto"`|`"single"`|`"double"`> Sets desired attribute quote type. "auto" selects quote type automatically to avoid or minimize number of escaped characters. **Default:** `"auto"`.

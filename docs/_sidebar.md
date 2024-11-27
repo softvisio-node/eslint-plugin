@@ -1,6 +1,6 @@
--   [Introduction](/)
--   [Rules](rules.md)
+- [Introduction](/)
+- [Rules](rules.md)
 
 **Links**
 
--   [Changelog](/changelog)
+- [Changelog](/changelog)
