@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.18 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v1.7.17 ... v1.7.18](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.17...v1.7.18)
+
 ### 1.7.17 (2024-11-27)
 
 Other changes:
