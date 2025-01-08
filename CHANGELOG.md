@@ -4,6 +4,15 @@
 
 Other changes:
 
+- chore: release v1.7.19
+- chore: update package metadata
+
+[Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.18...v1.7.19)
+
+### 1.7.19 (2025-01-08)
+
+Other changes:
+
 - chore: update package metadata
 
 [Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.18...v1.7.19)
