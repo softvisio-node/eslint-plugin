@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.20 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v1.7.19...v1.7.20`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.19...v1.7.20)
+
 ### 1.7.19 (2025-01-08)
 
 Other changes:
