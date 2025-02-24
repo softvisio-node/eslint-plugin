@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.21 (2025-02-24)
+
+Other changes:
+
+- chore: cleanup code
+
+Compare with the previous release: [`v1.7.20...v1.7.21`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.20...v1.7.21)
+
 ### 1.7.20 (2025-02-19)
 
 Other changes:
