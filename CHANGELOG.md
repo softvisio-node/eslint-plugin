@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.22 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+
+Compare with the previous release: [`v1.7.21...v1.7.22`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.21...v1.7.22)
+
 ### 1.7.21 (2025-02-24)
 
 Other changes:
