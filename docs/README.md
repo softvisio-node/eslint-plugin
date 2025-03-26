@@ -4,7 +4,7 @@ Custom `eslint` rules.
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/eslint-plugin
 ```
 
