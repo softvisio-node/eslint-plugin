@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.26 (2025-03-26)
+
+Other changes:
+
+- chore: update markdown code tags
+
+Compare with the previous release: [`v1.7.25...v1.7.26`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.25...v1.7.26)
+
 ### 1.7.25 (2025-03-04)
 
 Other changes:
