@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.7.27 (2025-04-27)
+
+Other changes:
+
+- chore: update eslint camel-case rule
+
+Compare with the previous release: [`v1.7.26...v1.7.27`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.26...v1.7.27)
+
 ### 1.7.26 (2025-03-26)
 
 Other changes:
