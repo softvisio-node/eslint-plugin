@@ -16,7 +16,7 @@ Restrict variables names to `camelCase`.
 
     - `ignoreGlobals?` {boolean} Ignore global names. **Default:** `false`.
 
-    - `allowConsecutiveCapitalLetters?` {boolean} Allow two consecutive capital letters. **Default:** `false`.
+    - `strictCamelCase?` {boolean} Diaallow consecutive capital letters. **Default:** `true`.
 
         ```javascript
         // incorrect
@@ -24,22 +24,14 @@ Restrict variables names to `camelCase`.
 
         // correct
         var SslCertificate;
+
+        // constant-case always allowed
+        var SSL_CERTIFICATE;
         ```
 
     - `properties?` <`"always"`|`"never"`> Check object properties.
 
     - `allow?` {string\[]} List of allowed names.
-
-    - `allowedPrefixes?` {string\[]} List of allowed prefixes.
-
-        ```javascript
-        // incorrect
-        var API_test;
-
-        // correct
-        // eslint @softvisio/cames-case: [ "error", { `allowedPrefixes: [ "API_" ] } ]
-        var API_test;
-        ```
 
 ## @softvisio/html-quotes
 
