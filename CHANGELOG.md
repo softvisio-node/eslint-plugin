@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.29 (2025-06-07)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+Compare with the previous release: [v1.7.28](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.28...v1.7.29)
+
 ### v1.7.28 (2025-06-01)
 
 **Other changes:**
