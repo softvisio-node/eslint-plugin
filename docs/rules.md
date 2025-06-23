@@ -9,7 +9,6 @@ Restrict variables names to `camelCase`.
 ```
 
 - `options` {Object}:
-
     - `ignoreDestructuring?` {boolean} Ignore names in destructuring. **Default:** `false`.
 
     - `ignoreImports?` {boolean} Ignore imported names. **Default:** `false`.
