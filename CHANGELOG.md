@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.31 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [8c7ba74](https://github.com/softvisio-node/eslint-plugin/commit/8c7ba74); 👬 zdm)
+
+Compare with the previous release: [v1.7.30](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.30...v1.7.31)
+
 ### v1.7.30 (2025-06-23)
 
 **Other changes:**
