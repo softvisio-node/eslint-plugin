@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.32 (2025-07-22)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [c3d6564](https://github.com/softvisio-node/eslint-plugin/commit/c3d6564); 👬 zdm)
+
+Compare with the previous release: [v1.7.31](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.31...v1.7.32)
+
 ### v1.7.31 (2025-07-16)
 
 **Other changes:**
