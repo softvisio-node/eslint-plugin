@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.33 (2025-07-23)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update editorconfig (● [9d19821](https://github.com/softvisio-node/eslint-plugin/commit/9d19821); 👬 zdm)
+
+Compare with the previous release: [v1.7.32](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.32...v1.7.33)
+
 ### v1.7.32 (2025-07-22)
 
 **Bug fixes:**
