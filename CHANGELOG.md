@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.34 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [4d41cc5](https://github.com/softvisio-node/eslint-plugin/commit/4d41cc5); 👬 zdm)
+
+Compare with the previous release: [v1.7.33](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.33...v1.7.34)
+
 ### v1.7.33 (2025-07-23)
 
 **Bug fixes:**
